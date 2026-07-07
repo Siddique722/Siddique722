@@ -1,18 +1,22 @@
 <div align="center">
 
-# Siddique Qureshi
-
-### Flutter Developer • Full Stack Enthusiast • Freelancer
-
-Building scalable, high-performance mobile & web applications with modern technologies.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A2647,50:144272,100:2C74B3&height=200&section=header&text=Siddique%20Qureshi&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Flutter%20Developer%20%C2%B7%20Full%20Stack%20Enthusiast%20%C2%B7%20Freelancer&descAlignY=58&descSize=17" width="100%"/>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1000&color=0A84FF&center=true&vCenter=true&width=700&lines=Flutter+Developer;Cross+Platform+Application+Developer;Firebase+%7C+REST+API+%7C+Node.js;Always+Learning+Something+New" />
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=Siddique722&label=Profile+Views&color=0e75b6&style=flat"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/status-available%20for%20freelance-144272?style=flat-square&labelColor=0A2647"/>
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/based%20in-Pakistan-144272?style=flat-square&labelColor=0A2647"/>
+  &nbsp;&nbsp;
+  <img src="https://komarev.com/ghpvc/?username=Siddique722&label=profile+views&color=144272&style=flat-square"/>
+</p>
 
 </div>
+
+<br/>
 
 <br/>
 
@@ -77,23 +81,14 @@ I enjoy solving real-world problems through software and continuously learning n
 
 <br/>
 
-## GitHub Analytics
+## Contribution Snake
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Siddique722&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siddique722&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Siddique722&theme=tokyonight&hide_border=true"/>
-</p>
-
-<br/>
-
-## GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Siddique722&theme=algolia&no-frame=true&margin-w=15&margin-h=15"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Siddique722/Siddique722/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Siddique722/Siddique722/output/github-contribution-grid-snake.svg" />
+    <img alt="contribution snake animation" src="https://raw.githubusercontent.com/Siddique722/Siddique722/output/github-contribution-grid-snake.svg" width="90%"/>
+  </picture>
 </p>
 
 <br/>
